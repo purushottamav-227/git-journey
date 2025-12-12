@@ -1,2 +1,2 @@
 one
-made change in development in one.txt
+I have wriiten in one.txt file
