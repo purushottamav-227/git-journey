@@ -1,1 +1,2 @@
 one
+I have wriiten in one.txt file
